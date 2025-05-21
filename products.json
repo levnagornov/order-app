@@ -1,0 +1,122 @@
+[
+  {
+    "item_name": "ProFlex Running Shoes",
+    "brand_name": "Nike",
+    "price": 129.99,
+    "category_name": "Footwear"
+  },
+  {
+    "item_name": "UltraDry Training Tee",
+    "brand_name": "Adidas",
+    "price": 34.99,
+    "category_name": "Tops"
+  },
+  {
+    "item_name": "FlexFit Yoga Pants",
+    "brand_name": "Lululemon",
+    "price": 89.00,
+    "category_name": "Bottoms"
+  },
+  {
+    "item_name": "StormGuard Windbreaker",
+    "brand_name": "Under Armour",
+    "price": 119.99,
+    "category_name": "Outerwear"
+  },
+  {
+    "item_name": "Core Compression Shorts",
+    "brand_name": "Reebok",
+    "price": 29.99,
+    "category_name": "Bottoms"
+  },
+  {
+    "item_name": "Elite Performance Hoodie",
+    "brand_name": "Puma",
+    "price": 74.99,
+    "category_name": "Outerwear"
+  },
+  {
+    "item_name": "AirMesh Sports Bra",
+    "brand_name": "Nike",
+    "price": 39.99,
+    "category_name": "Tops"
+  },
+  {
+    "item_name": "TrailRunner Cap",
+    "brand_name": "Columbia",
+    "price": 24.99,
+    "category_name": "Accessories"
+  },
+  {
+    "item_name": "HydroGrip Training Gloves",
+    "brand_name": "Adidas",
+    "price": 19.99,
+    "category_name": "Accessories"
+  },
+  {
+    "item_name": "PowerStride Crew Socks (3-pack)",
+    "brand_name": "Under Armour",
+    "price": 14.99,
+    "category_name": "Accessories"
+  },
+  {
+    "item_name": "Enduro Gym Bag",
+    "brand_name": "Nike",
+    "price": 59.99,
+    "category_name": "Bags"
+  },
+  {
+    "item_name": "ThermoShield Track Jacket",
+    "brand_name": "Reebok",
+    "price": 99.99,
+    "category_name": "Outerwear"
+  },
+  {
+    "item_name": "SprintLite Running Shorts",
+    "brand_name": "Puma",
+    "price": 44.99,
+    "category_name": "Bottoms"
+  },
+  {
+    "item_name": "ZenFlow Tank Top",
+    "brand_name": "Lululemon",
+    "price": 49.00,
+    "category_name": "Tops"
+  },
+  {
+    "item_name": "All-Terrain Trail Shoes",
+    "brand_name": "Salomon",
+    "price": 139.99,
+    "category_name": "Footwear"
+  },
+  {
+    "item_name": "CoolDry Headband",
+    "brand_name": "Nike",
+    "price": 12.99,
+    "category_name": "Accessories"
+  },
+  {
+    "item_name": "ProStretch Leggings",
+    "brand_name": "Adidas",
+    "price": 69.99,
+    "category_name": "Bottoms"
+  },
+  {
+    "item_name": "Velocity Sports Watch",
+    "brand_name": "Garmin",
+    "price": 199.99,
+    "category_name": "Accessories"
+  },
+  {
+    "item_name": "AeroFit Sleeveless Tee",
+    "brand_name": "Under Armour",
+    "price": 29.99,
+    "category_name": "Tops"
+  },
+  {
+    "item_name": "HydroPack Running Vest",
+    "brand_name": "CamelBak",
+    "price": 89.99,
+    "category_name": "Accessories"
+  }
+]
